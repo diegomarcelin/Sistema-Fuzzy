@@ -4,7 +4,7 @@ Trabalho apresentado para a disciplina de Sistemas Fuzzy com objetivo de impleme
 - [Descrição](#descrição)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Autores](#autores) 
+- [Autor](#autor) 
 - [Agradecimentos](#agradecimentos)
   
 ## Descrição
@@ -19,7 +19,9 @@ salobra que pode ser prejudicial a saúde. Por esse motivo, o principal objetivo
      cd Sistema-Fuzzy
   ```
 ## Uso
-No final do código existe uma função principal, ela é a responsável por chamar a função de inferência que é a parte mais desafiadora do projeto. Alguns gráficos das funções pertinências plotados pelas informações fornecidas das coletas não estão com o maior grau em 1, isso ocorre devido a um problema da função de plotagem ao usar números float, como ocorre em alguns intervalos das variáveis linguísticas, como os valores 25.5 e 19.25
+No final do código existe uma função principal, ela é a responsável por chamar a função de inferência que é a parte mais desafiadora do projeto. Alguns gráficos das funções pertinências plotados pelas informações fornecidas das coletas não estão com o maior grau em 1, isso ocorre devido a um problema da função de plotagem ao usar números float, como ocorre em alguns intervalos das variáveis linguísticas, por exemplos, nos valores 25.5 e 19.25.
 
+## Autor
+- [Diêgo Marcelino]
 
 
